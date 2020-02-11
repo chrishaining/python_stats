@@ -9,6 +9,8 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 ---
 
 <img src="boxplot.png" width="300" height="200">
+<img src="bar.png" width="300" height="200">
+
 
 ---
 
