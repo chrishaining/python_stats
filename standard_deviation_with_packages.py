@@ -1,15 +1,17 @@
 # 1. import numpy and scipy
 import numpy as np 
 from scipy import stats
+from matplotlib import pyplot as plt
 
 # 2. create lists
-even_list = [1, 2, 3, 5, 6, 7, 2, 4, 5, 9]
-odd_list = [1, 2, 3, 4, 5, 6, 2, 5, 9]
+
 list1 = [1, 2, 3, 4, 5, 6, 2, 4, 5, 9]
+list2 = [1, 2, 3, 5, 6, 7, 2, 4, 5, 9]
+list3 = [1, 2, 3, 4, 5, 6, 2, 5, 9]
 
 # 3. find standard deviation using numpy
-numpy_even_standard_deviation = np.std(even_list)
-numpy_odd_standard_deviation = np.std(odd_list)
+numpy_even_standard_deviation = np.std(list2)
+numpy_odd_standard_deviation = np.std(list3)
 numpy_list1_standard_deviation = np.std(list1)
 
 print(numpy_even_standard_deviation)
@@ -31,3 +33,10 @@ print(numpty_variance)
 # 6. find variance using stats - there is a .variation method, but I don't understand whether it is doing the same as np.var()
 scipy_variation = stats.variation(list1)
 print(scipy_variation)
+
+list1_x = range(10)
+plt.bar(list1_x, list1)
+
+
+
+plt.show()
