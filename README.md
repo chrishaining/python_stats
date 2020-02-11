@@ -8,7 +8,10 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 
 ---
 
-![alt-text-1](boxplot.png "title-1") ![alt-text-2](bar.png "title-2")
+<p float="left">
+  <img src="box.png" width="150" />
+  <img src="bar.png" width="150" /> 
+</p>
 
 ---
 
