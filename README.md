@@ -11,9 +11,9 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 
                                                  |   
 :-----------------------------------------------:|:-------------------------------------------:
-</span>
-<img src="boxplot.png" width="300" height="200"> <span style="color:white">|</span> <img src="bar.png" width="300" height="200">
 
+<img src="boxplot.png" width="300" height="200"> | <img src="bar.png" width="300" height="200">
+</span>
 
 ---
 
