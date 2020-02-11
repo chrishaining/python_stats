@@ -9,7 +9,7 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 ---
 
 <p float="center">
-  <img src="box.png" width="150" height="200"/>
+  <img src="boxplot.png" width="150" height="200"/>
   <img src="bar.png" width="150" height="200"/> 
 </p>
 
