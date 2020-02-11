@@ -24,3 +24,5 @@ The programs use Python 3 along with pip3 for installation. The packages used ar
 * numpy
 * scipy
 * matplotlib
+
+<img src="boxplot.png" width="300" height="200">
