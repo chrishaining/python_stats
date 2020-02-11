@@ -7,13 +7,8 @@ This collection of programs perform various statistical tasks, including:
 These are standard statistical tasks, so there are no doubt built-in methods for doing this. However, I want to do my own calculations so that I understand what's going on and will be better placed to assess the results of in-built methods.
 
 ---
-<span style="color:white">
 
-                                                 |   
-:-----------------------------------------------:|:-------------------------------------------:
-
-<img src="boxplot.png" width="300" height="200"> | <img src="bar.png" width="300" height="200">
-</span>
+![alt-text-1](boxplot.png "title-1") ![alt-text-2](bar.png "title-2")
 
 ---
 
