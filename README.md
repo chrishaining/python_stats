@@ -8,9 +8,9 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 
 ---
 
-<p float="left">
-  <img src="box.png" width="150" />
-  <img src="bar.png" width="150" /> 
+<p float="center">
+  <img src="box.png" width="150" height="200"/>
+  <img src="bar.png" width="150" height="200"/> 
 </p>
 
 ---
