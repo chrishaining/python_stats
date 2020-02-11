@@ -8,6 +8,10 @@ These are standard statistical tasks, so there are no doubt built-in methods for
 
 ---
 
+<img src="boxplot.png" width="300" height="200">
+
+---
+
 ## About the Programs
 
 * __standard_deviation.py__ calculates the standard deviation using basic Python functions.
@@ -25,4 +29,3 @@ The programs use Python 3 along with pip3 for installation. The packages used ar
 * scipy
 * matplotlib
 
-<img src="boxplot.png" width="300" height="200">
